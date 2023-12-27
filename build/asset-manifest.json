@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f337a0e.css",
+    "main.js": "/static/js/main.54a82961.js",
+    "static/media/world_map1_2448x.webp": "/static/media/world_map1_2448x.29f523fcbb07e162495d.webp",
+    "index.html": "/index.html",
+    "main.7f337a0e.css.map": "/static/css/main.7f337a0e.css.map",
+    "main.54a82961.js.map": "/static/js/main.54a82961.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f337a0e.css",
+    "static/js/main.54a82961.js"
+  ]
+}
