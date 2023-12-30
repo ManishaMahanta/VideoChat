@@ -1,0 +1,11 @@
+body{
+    background:linear-gradient(rgba(0,0,0,0.3),  rgba(0,0,0,0.3)), url("C:\Users\HP\Downloads\download (2).jpeg");
+    background-repeat: repeat-x ;
+    background-attachment: fixed;
+    background-size: cover; 
+}
+
+* {
+    margin: 0;
+    padding:0;
+}
